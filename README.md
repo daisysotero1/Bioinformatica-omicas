@@ -1,6 +1,6 @@
 # Bioinformática
 
-Material da disciplina do Programa de Pós-Graduação em Biotecnologia da Universidade Estadual de Londrina (UEL).
+Material da disciplina de bioinformática do curso de Biotecnologia da Universidade Estadual de Londrina (UEL).
 
 
 Departamento de Bioquímica e Biotecnologia.
