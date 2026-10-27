@@ -11,7 +11,7 @@ Departamento de Bioquímica e Biotecnologia.
 
 ---
 
-# Cronograma
+## Cronograma de aulas de Genômica
 
 | Data | Aula | Material |
 |------|------|----------|
