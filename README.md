@@ -2,9 +2,6 @@
 
 Material da disciplina de bioinformática do Departamento de Bioquímica e Biotecnologia da Universidade Estadual de Londrina (UEL).
 
-
-Departamento de Bioquímica e Biotecnologia.
-
 ## Docente
 
 - Profa. Daisy Sotero Chacon
